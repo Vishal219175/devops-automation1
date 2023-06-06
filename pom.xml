@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.OktaDemo</groupId>
-	<artifactId>OktaDemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>oktademo</artifactId>
+	<version>0.0.1</version>
 	<name>OktaDemo</name>
 	<description>Demo project for Spring Boot Okta integration</description>
 	<properties>
@@ -47,7 +47,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>OktaDemo-0.0.1-SNAPSHOT</finalName>
+		<finalName>oktademo-0.0.1</finalName>
 	</build>
 
 </project>
