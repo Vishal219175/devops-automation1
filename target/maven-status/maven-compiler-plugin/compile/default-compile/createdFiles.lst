@@ -1,0 +1,11 @@
+com\example\OktaDemo\models\OktaRecoveryModel.class
+com\example\OktaDemo\repository\OktaDemoRepository.class
+com\example\OktaDemo\models\OktaProfile.class
+com\example\OktaDemo\models\OktaUser.class
+com\example\OktaDemo\models\NewUser.class
+com\example\OktaDemo\models\OktaChangePassword.class
+com\example\OktaDemo\models\Item.class
+com\example\OktaDemo\models\OktaRecoveryQuestion.class
+com\example\OktaDemo\OktaDemoController.class
+com\example\OktaDemo\OktaDemoApplication.class
+com\example\OktaDemo\models\OktaCredentials.class

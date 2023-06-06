@@ -1,4 +1,4 @@
 FROM openjdk:19
 EXPOSE 9090
-ADD target/spring-boot1.jar spring-boot1.jar
-ENTRYPOINT ["java","-jar","/spring-boot1.jar"]
+ADD target/OktaDemo-0.0.1-SNAPSHOT.jar OktaDemo-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java","-jar","/OktaDemo-0.0.1-SNAPSHOT.jar"]

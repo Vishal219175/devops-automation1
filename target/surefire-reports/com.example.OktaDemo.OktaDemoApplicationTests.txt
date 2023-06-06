@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.OktaDemo.OktaDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.917 s - in com.example.OktaDemo.OktaDemoApplicationTests
